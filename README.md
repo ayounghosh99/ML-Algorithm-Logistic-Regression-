@@ -1,6 +1,6 @@
 # ML-Algorithm-Logistic-Regression-
 
-In this Jupyter Notebook, i have applied Logistic Regression Machine Learning Algorithm to Heart disease dataset from Cleaveland Database to predict exercise induced angina in patients. I achieved an accuracy of 72% which is pretty decent. In this notebook i have made a detailed report on Logistic Regression along with the complete implementation of my project. I have covered from Analyzing of Data to Data Wrangling and finally i Trained the Model to achieve a prediction success rate of 72%. I will perform the same task for various other ML Algorithms and add all of those reports to my Github repositories while making it public so that it's accessible to everyone for use. 
+In this Jupyter Notebook, I have applied Logistic Regression Machine Learning Algorithm to Heart disease dataset from Cleaveland Database to predict exercise induced angina in patients. I achieved an accuracy of 72% which is pretty decent. In this notebook I have made a detailed report on Logistic Regression along with the complete implementation of my project. I have covered from Analyzing of Data to Data Wrangling and finally I Trained the Model to achieve a prediction success rate of 72%. I will perform the same task for various other ML Algorithms and add all of those reports to my Github repositories while making it public so that it's accessible to everyone for use. 
 
 ## How to Run?
 
